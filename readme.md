@@ -69,3 +69,55 @@ Al final de este codelab, habrás creado una calculadora de propinas interactiva
 -   Una computadora con acceso a Internet y un navegador web
 -   Conocimientos sobre Kotlin
 -   La versión más reciente de [Android Studio](https://developer.android.com/studio?hl=es-419)
+
+
+
+------------
+
+# Training > Android Basics with Compose > Building App UI > IU y estado > 4/Calculo una propina personalizada
+
+---
+
+Solution code for the Android Basics with Compose
+
+Exercise source: https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-calculate-tip#0
+
+# Description
+
+------------
+## [1\. Antes de comenzar](https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-calculate-tip#0)
+
+## 
+
+En este codelab, usarás el código de la solución del codelab [Introducción al estado en Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?hl=es-419#0) para compilar una calculadora interactiva de propinas que puede calcular y redondear automáticamente un importe de propina cuando ingresas el importe de la factura y el porcentaje de propina. Puedes ver la app final en esta imagen:
+
+![d8e768525099378a.png](https://developer.android.com/static/codelabs/basic-android-kotlin-compose-calculate-tip/img/d8e768525099378a.png?hl=es-419)
+
+## Requisitos previos
+
+## 
+
+-   Haber completado el codelab [Introducción al estado en Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?hl=es-419#0)
+-   Poder agregar los elementos componibles `Text` y `TextField` a una app
+-   Conocer la función `remember()`, el estado, la elevación de estado y la diferencia entre las funciones de componibilidad con y sin estado
+
+## Qué aprenderás
+
+## 
+
+-   Cómo agregar un botón de acción a un teclado virtual
+-   Qué es un elemento `Switch` componible y cómo usarlo
+-   Cómo agregar íconos iniciales a los campos de texto
+
+## Qué compilarás
+
+## 
+
+-   Una app de Tip Time que calcula los importes de las propinas según el importe de la factura y el porcentaje de propina ingresados por el usuario
+
+## Requisitos
+
+## 
+
+-   La versión más reciente de [Android Studio](https://developer.android.com/studio?hl=es-419)
+-   El código de la solución del codelab [Introducción al estado en Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?hl=es-419#12)
