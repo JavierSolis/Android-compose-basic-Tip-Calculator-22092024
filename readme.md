@@ -1,6 +1,15 @@
 <img src="android_compose_head.png" alt="android jetpack compose android basics" style="width:100%;"/>
 
-# Courses Android Compose Basic - Solution Code #AndroidBasics
+Table of contents
+=================
+
+<!--ts-->
+* [4/Introducción al estado en Compose](#step4)
+<!--te-->
+
+------------
+
+# <a id="step4" /> Courses Android Compose Basic - Solution Code #AndroidBasics
 
 # Training > Android Basics with Compose > Building App UI > IU y estado > 4/Introducción al estado en Compose
 
@@ -121,3 +130,57 @@ En este codelab, usarás el código de la solución del codelab [Introducción 
 
 -   La versión más reciente de [Android Studio](https://developer.android.com/studio?hl=es-419)
 -   El código de la solución del codelab [Introducción al estado en Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state?hl=es-419#12)
+
+
+
+------------
+
+# Training > Android Basics with Compose > Building App UI > IU y estado > 5/Cómo escribir pruebas automatizadas
+
+---
+
+Solution code for the Android Basics with Compose
+
+Exercise source: https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-write-automated-tests#0
+
+# Description
+
+------------
+
+## [1\. Antes de comenzar](https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests?hl=es-419&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-2-pathway-3%3Fhl%3Des-419%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-write-automated-tests#0)
+
+## 
+
+En este codelab, aprenderás sobre las pruebas automatizadas de Android y cómo te permiten escribir apps escalables y sólidas. También te familiarizarás con la diferencia entre la lógica de la IU y la lógica empresarial, y cómo probar ambas. Por último, aprenderás a escribir y ejecutar pruebas automatizadas en Android Studio.
+
+## Requisitos previos
+
+## 
+
+-   Capacidad de escribir una app para Android con funciones y elementos componibles
+
+## Qué aprenderás
+
+## 
+
+-   Qué hacen las pruebas automatizadas en Android
+-   Por qué son importantes las pruebas automatizadas
+-   Qué son las pruebas locales y para qué se usan
+-   Qué es una prueba de instrumentación y para qué se usa
+-   Cómo escribir pruebas locales para código Android
+-   Cómo escribir pruebas de instrumentación para apps para Android
+-   Cómo ejecutar pruebas automatizadas
+
+## Qué compilarás
+
+## 
+
+-   Una prueba local
+-   Una prueba de instrumentación
+
+## Requisitos
+
+## 
+
+-   La versión más reciente de [Android Studio](https://developer.android.com/studio?hl=es-419)
+-   El código de la solución de la app de Tip Time
