@@ -1,17 +1,21 @@
 <img src="android_compose_head.png" alt="android jetpack compose android basics" style="width:100%;"/>
 
+# Courses Android Compose Basic - Solution Code #AndroidBasics
+
 Table of contents
 =================
 
 <!--ts-->
-* [4/Introducción al estado en Compose](#step4)
+* [3/Introducción al estado en Compose](#step3)
+* [4/Calculo una propina personalizada](#step42)
+* [5/Cómo escribir pruebas automatizadas](#step5)
 <!--te-->
 
 ------------
 
-# <a id="step4" /> Courses Android Compose Basic - Solution Code #AndroidBasics
+# <a id="step3" /> Courses Android Compose Basic - Solution Code #AndroidBasics
 
-# Training > Android Basics with Compose > Building App UI > IU y estado > 4/Introducción al estado en Compose
+# Training > Android Basics with Compose > Building App UI > IU y estado > 3/Introducción al estado en Compose
 
 ---
 
@@ -83,7 +87,7 @@ Al final de este codelab, habrás creado una calculadora de propinas interactiva
 
 ------------
 
-# Training > Android Basics with Compose > Building App UI > IU y estado > 4/Calculo una propina personalizada
+# <a id="step42" /> Training > Android Basics with Compose > Building App UI > IU y estado > 4/Calculo una propina personalizada
 
 ---
 
@@ -135,7 +139,7 @@ En este codelab, usarás el código de la solución del codelab [Introducción 
 
 ------------
 
-# Training > Android Basics with Compose > Building App UI > IU y estado > 5/Cómo escribir pruebas automatizadas
+# <a id="step5" /> Training > Android Basics with Compose > Building App UI > IU y estado > 5/Cómo escribir pruebas automatizadas
 
 ---
 
